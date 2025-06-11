@@ -1,0 +1,5 @@
+Python 3.10+ - Ensure you have Python installed on your system.
+streamlit
+google-generativeai
+python-dotenv
+pdf2image
